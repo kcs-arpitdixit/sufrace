@@ -1,3 +1,6 @@
 [submodule "submoduledir"]
 	path = submoduledir
 	url = ./submoduledir
+[submodule "submarines"]
+	path = submarines
+	url = https://github.com/kcs-arpitdixit/submarines.git
